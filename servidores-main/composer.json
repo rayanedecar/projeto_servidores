@@ -1,0 +1,8 @@
+{
+    "name":"depen/servidores",
+    "autoload": {
+        "psr-4": {
+        "App\\":"app/"
+        }
+    }
+}
